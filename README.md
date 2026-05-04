@@ -13,13 +13,6 @@ I am interested in: Backend Development.
 ### 🛠️ Projects & Stats
 <!-- This generates a card for a specific repo -->
 <!-- This section creates the card grid layout seen in image_d12d85.jpg -->
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/Henryquach12/AnVuong">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenryQuach12&repo=ExpenseTracker_python&theme=tokyonight" />
-      </a>
-    </td>
-</table>
+[![AnVuong Card](https://github-readme-stats.vercel.app/api/pin/?username=HenryQuach12&repo=AnVuong&theme=tokyonight)](https://github.com/HenryQuach12/AnVuong)
 
 
