@@ -13,4 +13,4 @@ I am interested in: Backend Development.
 ### 🛠️ Projects & Stats
 <!-- This generates a card for a specific repo -->
 <!-- This section creates the card grid layout seen in image_d12d85.jpg -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henryquach12)](https://github.com/Henryquach12/E-commerce-platform)
+[![E-commerce platform Card](https://github-readme-stats-sigma-snowy.vercel.app/api/pin/?username=Henryquach12&repo=E-commerce-platform&theme=tokyonight)]()
