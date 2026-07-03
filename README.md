@@ -14,3 +14,5 @@ I am interested in: Backend Development.
 <!-- This generates a card for a specific repo -->
 <!-- This section creates the card grid layout seen in image_d12d85.jpg -->
 [![E-commerce platform Card](https://github-readme-stats-sigma-snowy.vercel.app/api/pin/?username=Henryquach12&repo=E-commerce-platform&theme=tokyonight)](https://github.com/Henryquach12/E-commerce-platform)
+
+[![Naruto-AI Card](https://github-readme-stats-sigma-snowy.vercel.app/api/pin/?username=Henryquach12&repo=Naruto_AI&theme=tokyonight)](https://github.com/Henryquach12/Naruto_AI)
