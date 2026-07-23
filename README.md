@@ -17,7 +17,7 @@ I am interested in: Backend Development.
 
 [![Naruto-AI Card](https://github-readme-stats-sigma-snowy.vercel.app/api/pin/?username=Henryquach12&repo=Naruto_AI&theme=tokyonight)](https://github.com/Henryquach12/Naruto_AI)
 
-[![Le Van Tien 3](https://github-readme-stats-sigma-snowy.vercel.app/api/pin/?username=Henryquach12&repo=Gas-website&theme=tokyonight)](https://github.com/Henryquach12/Gas-website)
+[![Stroke Prediction](https://github-readme-stats-sigma-snowy.vercel.app/api/pin/?username=Henryquach12&repo=Stroke-Classification-&theme=tokyonight)](https://github.com/Henryquach12/Stroke-Classification-.git)
 
 [![CSGO Prediction](https://github-readme-stats-sigma-snowy.vercel.app/api/pin/?username=Henryquach12&repo=Csgo-classification&theme=tokyonight)](https://github.com/Henryquach12/Csgo-classification)
 
